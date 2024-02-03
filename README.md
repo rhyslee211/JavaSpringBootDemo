@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rhyslee211/JavaSpringBootDemo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/SpringLogo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Java Spring Boot Tutorial</h3>
