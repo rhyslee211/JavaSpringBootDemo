@@ -124,9 +124,9 @@ Using a name parameter you can personalize the output of the application. <http:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - rhsylee211@gmail.com
+Rhys Lee - rhsylee211@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/rhyslee211/JavaSpringBootDemo)
+Java Spring Boot Demo: [https://github.com/github_username/repo_name](https://github.com/rhyslee211/JavaSpringBootDemo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
